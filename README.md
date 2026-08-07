@@ -4,7 +4,7 @@
 
 ### Apps
 
-* **Haiku OS** — [rworldradio](https://github.com/rainygirl/haiku-rworldradio) | [rmemo](https://github.com/rainygirl/haiku-rmemo) | [rsoundeditor](https://github.com/rainygirl/haiku-rsoundeditor) | [rwifianalyzer](https://github.com/rainygirl/rwifianalyzer/tree/main/haiku)
+* **Haiku OS** — [rworldradio](https://github.com/rainygirl/haiku-rworldradio) | [rmemo](https://github.com/rainygirl/haiku-rmemo) | [rsoundeditor](https://github.com/rainygirl/haiku-rsoundeditor) | [rmarkdown](https://github.com/rainygirl/haiku-rmarkdown) | [rtiler](https://github.com/rainygirl/haiku-rtiler) | [rqrreader](https://github.com/rainygirl/haiku-rqrreader) | [rwifianalyzer](https://github.com/rainygirl/rwifianalyzer/tree/main/haiku)
 
 * **Windows 10 Mobile** — [rworldradio-winphone](https://github.com/rainygirl/rworldradio-winphone) | [rairplay-winphone](https://github.com/rainygirl/rairplay-winphone) | [rwifianalyzer](https://github.com/rainygirl/rwifianalyzer/tree/main/winphone)
 
