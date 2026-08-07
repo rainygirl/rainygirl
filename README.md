@@ -10,7 +10,7 @@
 
 * **macOS** — [rworldradio-mac](https://github.com/rainygirl/rworldradio-mac) | [rwifianalyzer](https://github.com/rainygirl/rwifianalyzer/tree/main/mac)
 
-* **Linux** — [rworldradio-linux](https://github.com/rainygirl/rworldradio-linux) | [rspeaker-linux](https://github.com/rainygirl/rspeaker-linux)
+* **Linux** — [rworldradio-linux](https://github.com/rainygirl/rworldradio-linux)
 
 ### Ports & Tools
 
